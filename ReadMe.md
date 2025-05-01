@@ -1,0 +1,7 @@
+# **KCG Encryption for XOJO**
+
+Written By: Kevin Cary-Grimm
+
+This is an encryption module for Xojo that implements Base64, AES-256, RSA-2048, Hash256, Hash512, and Blowfish(CBC). It is using all native API 2.0 XOJO code and it’s built in crypto libraries. I needed a clear basic set of API 2.0 example code for these common encryptions/encodings. I’m place this out here hoping someone else finds it useful.  
+  
+![](media/53bff4a86907c9b43beeead6fc19cd32.png)
