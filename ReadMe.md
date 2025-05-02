@@ -8,3 +8,5 @@ This is an encryption module for XOJO that implements Base64, AES-256, RSA-2048,
 
 -   Version 1.2.0.0 was to add the RC4(ARC4) encryption. Thanks to Mike D.
 -   This is version 1.3.0.0 to add the demonstration of generating a secure password.
+
+My web site: <Http://KCG-Software.com>
